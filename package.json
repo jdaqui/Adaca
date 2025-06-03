@@ -1,0 +1,21 @@
+{
+  "name": "adaca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha 'test/**/*.ts'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.29"
+  },
+  "dependencies": {
+    "mocha": "^11.5.0",
+    "selenium-webdriver": "^4.33.0"
+  },
+  "mocha": "^11.5.0"
+}
